@@ -2,7 +2,7 @@ package com.ertugrul;
 
 import java.util.Stack;
 
-public class _020_ValidParentheses {
+public class _020_ValidParentheses_E_ {
     public static void main(String[] args) {
 
         String string1 = "()";

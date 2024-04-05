@@ -1,6 +1,6 @@
 package com.ertugrul;
 
-public class _007_ReverseInteger {
+public class _007_ReverseInteger_M_ {
     public static void main(String[] args) {
 
         int  x= 123;

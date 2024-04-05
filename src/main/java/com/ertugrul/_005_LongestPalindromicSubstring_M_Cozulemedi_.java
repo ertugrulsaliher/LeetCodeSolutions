@@ -1,6 +1,6 @@
 package com.ertugrul;
 
-public class _005_LongestPalindromicSubstring_M_ {
+public class _005_LongestPalindromicSubstring_M_Cozulemedi_ {
     public static void main(String[] args) {
     String string ="babad";
     String string2 ="cbbd";

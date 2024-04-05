@@ -3,7 +3,7 @@ package com.ertugrul;
 import java.util.HashSet;
 import java.util.Set;
 
-public class _287_FindTheDublicateNumber {
+public class _287_FindTheDublicateNumber_M_ {
     public static void main(String[] args) {
 
     }

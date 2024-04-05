@@ -4,7 +4,7 @@ package com.ertugrul;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class _001_TwoSum {
+public class _001_TwoSum_E_ {
     /*
     Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 

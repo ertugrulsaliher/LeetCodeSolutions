@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class _442_FindAllDublicatesInAnArray_E_ {
+public class _442_FindAllDublicatesInAnArray_M_ {
     public static void main(String[] args) {
         int [] nums = {4,3,2,7,8,2,3,1};
         System.out.println(findDuplicates(nums));

@@ -1,6 +1,6 @@
 package com.ertugrul;
 
-public class _014_LongestCommonPrefix {
+public class _014_LongestCommonPrefix_E_ {
     public static void main(String[] args) {
         String[] strs = {"flower","flow","flight"};
         String[] strs2 = {"dog","racecar","car"};
